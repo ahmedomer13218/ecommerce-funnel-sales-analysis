@@ -2,7 +2,6 @@
 
 An end-to-end business intelligence project analyzing e-commerce website traffic, conversion behavior, sales performance, product attachment, cross-selling, and A/B test results using **SQL Server** and **Power BI**.
 
-> **Project status:** Portfolio project. Add your final dashboard screenshots and Power BI report file before publishing. Only include findings and numerical results that you have validated in your analysis.
 
 ## Project Overview
 
